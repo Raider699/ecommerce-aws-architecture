@@ -26,5 +26,6 @@ To meet the "low budget" and "fault tolerant" requirements:
 - **Architecture Design:** [draw.io](https://draw.io)
 - **Documentation:** Markdown & PDF
 
----
+---<img width="791" height="956" alt="architecture-diagram png" src="https://github.com/user-attachments/assets/296708b8-97ae-4f55-b606-7933419ca296" />
+
 *Designed as part of the Cloud Squad Architecture Challenge.*
